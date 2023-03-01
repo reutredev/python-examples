@@ -3,3 +3,4 @@ aiohttp
 httpx
 cherrypy
 bottle
+boto3
